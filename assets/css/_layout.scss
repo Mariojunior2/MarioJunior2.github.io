@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-style: unset;
+
+    h1 {
+        font-size: 400%;
+    }
+    h2 {
+        font-size: 300%;
+    }
+    p {
+        font-size: 150%;
+    }
+    ul {
+        font-size: 150%;
+    }
+    li {
+        font-size: 150%;
+    }
+    h3 {
+        font-size: 250%;
+    }
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    border-color: gold;
+    border-radius: 10%;
+    width: 345px;
+}
